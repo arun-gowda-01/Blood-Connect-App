@@ -66,11 +66,6 @@ flutter pub get
 flutter run
 ```
 
----
-
-## 📸 Screenshots
-
-> Screenshots will be added soon.
 
 ---
 
